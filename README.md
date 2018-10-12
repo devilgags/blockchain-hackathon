@@ -1,6 +1,8 @@
 *Application Video Coming soon!
 
-This is the backend services for Tree Felling in spring-boot.
+This is the backend services for Tree Felling Use Case.
+
+The tech stack used is Sprig-Boot, Hyperledger and  Swagger2. We are not using any database because we are storing everything in Blockchain
 
 To build the project , run command : mvn clean install
 
